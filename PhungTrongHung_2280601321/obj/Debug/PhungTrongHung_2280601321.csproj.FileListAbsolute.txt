@@ -1,0 +1,15 @@
+D:\BT\PhungTrongHung_2280601321\bin\Debug\PhungTrongHung_2280601321.exe.config
+D:\BT\PhungTrongHung_2280601321\bin\Debug\PhungTrongHung_2280601321.exe
+D:\BT\PhungTrongHung_2280601321\bin\Debug\PhungTrongHung_2280601321.pdb
+D:\BT\PhungTrongHung_2280601321\bin\Debug\EntityFramework.dll
+D:\BT\PhungTrongHung_2280601321\bin\Debug\EntityFramework.SqlServer.dll
+D:\BT\PhungTrongHung_2280601321\bin\Debug\EntityFramework.xml
+D:\BT\PhungTrongHung_2280601321\bin\Debug\EntityFramework.SqlServer.xml
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.csproj.AssemblyReference.cache
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.Form1.resources
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.Properties.Resources.resources
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.csproj.GenerateResource.cache
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.csproj.CoreCompileInputs.cache
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTro.09E1AAE9.Up2Date
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.exe
+D:\BT\PhungTrongHung_2280601321\obj\Debug\PhungTrongHung_2280601321.pdb
